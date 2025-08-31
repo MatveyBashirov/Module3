@@ -1,4 +1,4 @@
-package ru.aston.hometask;
+package ru.aston.hometask.module3;
 
 import java.io.*;
 
